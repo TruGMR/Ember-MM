@@ -1,0 +1,2 @@
+# Ember-MM
+Media Manager
